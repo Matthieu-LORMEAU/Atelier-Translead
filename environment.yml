@@ -5,9 +5,9 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - jupyter
   - pandas
   - seaborn
   - plotly
   - scikit-learn
+  - requests
 prefix: C:\Users\Didou\Miniconda3\envs\translead_min
