@@ -10,4 +10,5 @@ dependencies:
   - plotly
   - scikit-learn
   - requests
+  - nbformat
 prefix: C:\Users\Didou\Miniconda3\envs\translead_min
